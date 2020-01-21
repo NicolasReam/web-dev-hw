@@ -1,0 +1,7 @@
+1. The Internet is a network of networks, connecting participants; while the web connects information, specifically hypertext documents, accessed via the Internet (across the world).
+
+2. The Internet works via being made up of a large number of independently operated networks, that is fully distributed, with no central control. There is end-to-end connectivity to every part of the network to allow any device to communicate with any other device. The Internet is made of up many cables, for example, fiber optics, to ensure connectivity.
+
+3. A directory is what is considered a folder on desktops (but on the web), meaning a directory is where files are held. Files are contained within directories.
+
+4. Using a VCS is beneficial because it allows for "tracking changes" overtime; "reverting back" to previous versions, and thus not requiring many "extra" saved files, per se; and "sharing and collaboration," which allows for working together, seeing what one another is doing, and solving conflicts.
